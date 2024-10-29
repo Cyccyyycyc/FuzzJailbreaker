@@ -1,6 +1,6 @@
 # FuzzJailbreaker: 一种用于发现LLMs中越狱漏洞的创新通用模糊测试框架
-> 可访问 [作品主页](https://Cyccyyycyc.github.io/Demo_FuzzJailbreaker_cy/)。
-![image](https://Cyccyyycyc.github.io/images/overview.png)
+> 可访问 [作品主页](https://Cyccyyycyc.github.io/Demo_FuzzJailbreaker/)。
+![image](/images/overview.png)
 
 ## 介绍
 
@@ -10,7 +10,7 @@ FuzzJailbreaker 是一个前沿的研究框架，旨在主动检测和解决大�
 
 `construction/jailbreak_prompts/csv`：该目录包含了我们研究中所展示的7种类型的越狱提示数据集，旨在提供广泛的测试覆盖。 😍😍😍
 
-![image](https://Cyccyyycyc.github.io/images/pipeline.png)
+![image](/images/pipeline.png)
 
 ## 目录
 
